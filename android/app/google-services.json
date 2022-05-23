@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "1098788398096",
+    "firebase_url": "https://bananereactnative-default-rtdb.firebaseio.com",
+    "project_id": "bananereactnative",
+    "storage_bucket": "bananereactnative.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1098788398096:android:def7065123ab0f13405695",
+        "android_client_info": {
+          "package_name": "com.bananepatika"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1098788398096-6b6schflntkpecnc94kls88qrtkdie5m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8I84Bo4kk7ERn0bc4-mQkMfT4ubjCgWc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1098788398096-6b6schflntkpecnc94kls88qrtkdie5m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1098788398096:android:cd52a9c059dc1a10405695",
+        "android_client_info": {
+          "package_name": "com.codeltalkspatika"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1098788398096-6b6schflntkpecnc94kls88qrtkdie5m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8I84Bo4kk7ERn0bc4-mQkMfT4ubjCgWc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1098788398096-6b6schflntkpecnc94kls88qrtkdie5m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
